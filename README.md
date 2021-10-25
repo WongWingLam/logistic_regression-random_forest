@@ -4,3 +4,4 @@ open jupyter notebook
 ```
 $jupyter notebook
 ```
+open code.ipynb
