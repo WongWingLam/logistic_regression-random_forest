@@ -1,5 +1,5 @@
 # COMP 3314 Assignment 1 (G49)
-logistic regression and random forest trained and tested on 2 datasets: Iris and Car evaluation
+logistic regression and random forest based on scikit-learn, trained and tested on 2 datasets: Iris and Car evaluation
 ## run 
 open jupyter notebook
 ```
